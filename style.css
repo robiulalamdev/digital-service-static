@@ -8,6 +8,13 @@
 body {
   font-family: montserrat;
 }
+
+
+.shadow-card{
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+
 /* .container {
   max-width: 1320px !important;
   margin: auto; 
