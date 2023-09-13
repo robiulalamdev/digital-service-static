@@ -189,6 +189,13 @@ nav ul li a {
   line-height: normal;
 }
 
+
+.carousel-btn {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
 .hero_container {
   display: flex;
   justify-content: center;
